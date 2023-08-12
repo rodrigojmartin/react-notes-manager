@@ -1,0 +1,16 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "A title",
+      "content": "Fisuranga Banga",
+      "created_at": "01/01/2023"
+    },
+    {
+      "title": "Another note",
+      "content": "Some note content!!!",
+      "created_at": "03/01/2022",
+      "id": 2
+    }
+  ]
+}
